@@ -1,2 +1,0 @@
-# blog
-Bites and Flights
